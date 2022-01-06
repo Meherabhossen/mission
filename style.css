@@ -1,0 +1,51 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+#year{
+    font-size: 60px;
+}
+#year-two{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.left-border{
+    border-left: 4px solid;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+    padding-left: 4%;
+}
+.color-purple{
+    color: rgb(100, 1, 100);
+}
+.all-justify{
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,tomato);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10%;
+    font-weight: 700;
+}
+.stay-focused{
+    display: flex;
+}
+.half-width{
+    width: 80%;
+    padding: 5%;
+    
+}
+.half-widht img{
+    width: 60%;
+    padding-left: 5%;
+}
