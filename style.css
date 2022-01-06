@@ -1,5 +1,6 @@
 body{
     font-family: 'Playfair Display', serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -116,4 +117,39 @@ p{
 .know-us img{
     width: 60%;
     padding-left: 2%;
+}
+.history{
+    display: flex;
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: bottom left;
+}
+.njupt{
+    width: 50%;
+    margin: 50px;
+}
+.njupt img{
+    width:60%;
+    padding-left: 2%;
+    margin-left: 10%;
+    
+}
+footer{
+    font-family: 'Satisfy', cursive;
+    background-color: black;
+    color: white;
+}
+.mi-footer{
+    text-align: center;
+    padding-top: 20px;
+}
+.color-red{
+    color: red;
+    
+}
+.pe-footer{
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 0%;
 }
