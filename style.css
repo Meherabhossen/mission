@@ -136,12 +136,13 @@ p{
     
 }
 footer{
-    font-family: 'Satisfy', cursive;
+    
     background-color: black;
     color: white;
 }
 .mi-footer{
     text-align: center;
+    font-family: 'Satisfy', cursive;
     padding-top: 20px;
 }
 .color-red{
