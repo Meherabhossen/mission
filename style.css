@@ -66,20 +66,20 @@ p{
     padding-right: 20px;
 }
 #nextyear-mission{
-    background-image: url(/images/illustrators/illustrator-1.png);
+    background-image: url(images/illustrators/illustrator-1.png);
     background-color: rgb(224, 181, 115);
     background-repeat: no-repeat;
     background-size: 60%;
     
 }
 #nextyear-vission{
-    background-image: url(/images/illustrators/illustrator-2.png);
+    background-image: url(images/illustrators/illustrator-2.png);
     background-color: rgb(207, 89, 207);
     background-repeat: no-repeat;
     background-size: 60%;
 }
 #nextyear-goal{
-    background-image: url(/images/illustrators/illustrator-3.png);
+    background-image: url(images/illustrators/illustrator-3.png);
     background-color: rgb(236, 141, 141);
     background-repeat: no-repeat;
     background-size: 60%;
@@ -90,7 +90,7 @@ p{
 }
 .develop-limits{
     display: flex;
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 22%;
     background-position:top left;
@@ -105,7 +105,7 @@ p{
 }
 .global-community{
     display: flex;
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 22%;
     background-position: bottom right;
@@ -120,7 +120,7 @@ p{
 }
 .history{
     display: flex;
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 20%;
     background-position: bottom left;
