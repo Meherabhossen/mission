@@ -32,7 +32,7 @@ p{
 .all-justify{
     text-align: justify;
 }
-.link-button{
+.linking-button{
     text-decoration: none;
     background-image: linear-gradient(purple,tomato);
     color: white;
@@ -46,7 +46,6 @@ p{
 .new-width{
     width: 80%;
     padding: 5%;
-    
 }
 .new-widht img{
     width: 60%;
@@ -83,4 +82,38 @@ p{
     background-color: rgb(236, 141, 141);
     background-repeat: no-repeat;
     background-size: 60%;
+}
+.developing-area{
+    font-size: 30px;
+    text-align: left;
+}
+.develop-limits{
+    display: flex;
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 22%;
+    background-position:top left;
+
+}
+.limits-width{
+    width: 40%;
+}
+.limits-width img{
+    width:60%;
+    margin-left: 20%;
+}
+.global-community{
+    display: flex;
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 22%;
+    background-position: bottom right;
+}
+.know-us{
+    width:50%;
+    margin-left: 5%;
+}
+.know-us img{
+    width: 60%;
+    padding-left: 2%;
 }
